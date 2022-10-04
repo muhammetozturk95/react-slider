@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Framer-motion library was used for motions. 
+
+You can access demo from [here](https://react-slider-swart.vercel.app/)
+
+https://user-images.githubusercontent.com/69854970/193803316-88cba6b2-cd3d-4233-82f4-1450d7ec5d36.mp4
+
 ## Available Scripts
 
 In the project directory, you can run:
